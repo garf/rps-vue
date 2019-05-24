@@ -1,5 +1,7 @@
 # rps-vue
 
+# --== This project is "Work In Progress" ==--
+
 ## Project setup
 ```
 npm install
